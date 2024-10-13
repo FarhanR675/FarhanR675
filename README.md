@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FarhanR675
 - 👀 I’m interested in stocks and financial sector of the tech industry.
-- 🌱 I’m currently learning JavaScript, HTML, CSS.
-- 💞️ I’m looking to collaborate in projects related to interests and anything that can help me develop my understanding further
+- 🌱 I’m currently expanding my knowledge on JavaScript, HTML, CSS.
 - 📫 How to reach me: Email - Farhanrahman675@gmail.com
 - 😄 Pronouns: He/Him
 
