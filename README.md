@@ -4,7 +4,7 @@ Aspiring Software Engineer | Java Developer | Open to Opportunities
 
 ---
 
-I'm a self-taught graduate software engineer with a strong foundation in Java, backend development, and a growing portfolio of hands-on projects. I enjoy solving real-world problems through clean, efficient, and secure code — especially in domains like finance, automation, and intelligent systems.
+I'm a self-taught graduate software engineer with a strong foundation in Java, backend development, and a growing portfolio of hands-on projects. I enjoy solving real-world problems through clean, efficient, and secure code, especially in domains like finance, automation, and intelligent systems.
 
 ## 💻 What I Work With
 
